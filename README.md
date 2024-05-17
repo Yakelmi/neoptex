@@ -14,7 +14,7 @@ Open the terminal or PowerShell (Windows) and execute the commands below **stric
 At any time you can exit from venv, just type `deactivate`.
 
 ## 📝 TODO
-- [ ] Make imports smaller
+- [+] Make imports smaller
 - [ ] Improve example
 - [ ] Add cooldown setting
 - [ ] Add more error exceptions
