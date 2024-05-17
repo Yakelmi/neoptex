@@ -1,5 +1,7 @@
 ✨ **Neoptex Cleaner** - This project offers three options for system cleaning: cache cleaning, temporary file cleaning, and system cleaning.
 
+![Alt Text](https://cdn.discordapp.com/attachments/1240349660275671152/1241131746796376084/image.png?ex=66491583&is=6647c403&hm=15ec8f4346c2a1af5e80a968e310268450a0513334231db6a3e6c60d860d26f4&)
+
 ## 🔮 Time-machine
 - [🔮 You here!](https://github.com/Yakelmi/neoptex/edit/main/README.md)
 - [🛠️ Install](https://github.com/Yakelmi/neoptex/edit/main/README.md#%EF%B8%8F-install)
