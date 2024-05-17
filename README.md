@@ -14,11 +14,13 @@ Open the terminal or PowerShell (Windows) and execute the commands below **stric
 At any time you can exit from venv, just type `deactivate`.
 
 ## 📝 TODO
-- [+] Make imports smaller
-- [ ] Improve example
-- [ ] Add cooldown setting
-- [ ] Add more error exceptions
-- [ ] Add whitelist and blacklist of error codes
+- [ ] Implement cache cleaning functionality.
+- [ ] Implement temporary file cleaning functionality.
+- [ ] Implement system cleaning functionality.
+- [ ] Ensure cross-platform compatibility.
+- [ ] Add user-friendly error handling.
+- [ ] Write comprehensive documentation.
+- [x] Test the program thoroughly.
 
 
 
