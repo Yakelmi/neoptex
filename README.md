@@ -7,7 +7,7 @@
 
 ## 🛠️ Install
 Open the terminal or PowerShell (Windows) and execute the commands below **strictly** in their order
-- ```git clone https://github.com/kaeeraa/neoptex.git```
+- ```git clone https://github.com/Yakelmi/neoptex.git```
 - ```cd neoptex```
 - python3  main.py
 
