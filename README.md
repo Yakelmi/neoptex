@@ -14,8 +14,8 @@ Open the terminal or PowerShell (Windows) and execute the commands below **stric
 At any time you can exit from venv, just type `deactivate`.
 
 ## 📝 TODO
-- [x] Implement cache cleaning functionality.
-- [ ] Implement temporary file cleaning functionality.
+- [x] Implement cache cleaning functionality. 
+- [x] Implement temporary file cleaning functionality.
 - [x] Implement system cleaning functionality.
 - [x] Ensure cross-platform compatibility.
 - [ ] Add user-friendly error handling.
@@ -24,12 +24,10 @@ At any time you can exit from venv, just type `deactivate`.
 
 ## 📝 TODO RUSSIAN
 - [x] Реализовать функциональность очистки кэша.
-- [ ] Реализовать функциональность очистки временных файлов.
+- [x] Реализовать функциональность очистки временных файлов.
 - [x] Реализовать функциональность очистки системы.
 - [x] Гарантировать совместимость с разными платформами.
 - [ ] Добавить удобную обработку ошибок.
 - [ ] Написать подробную документацию.
 - [ ] Только лишь тщательно протестировать программу.
-
-
 
