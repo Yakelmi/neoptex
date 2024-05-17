@@ -7,10 +7,8 @@
 
 ## 🛠️ Install
 Open the terminal or PowerShell (Windows) and execute the commands below **strictly** in their order
-- ```git clone https://github.com/kaeeraa/uniget.git```
-- ```cd uniget```
-- Windows: ```.venv/bin/Activate.ps1```
-- Linux or MacOS: ```source .venv/bin/activate```
+- ```git clone https://github.com/kaeeraa/neoptex.git```
+- ```cd neoptex```
 - python3  main.py
 
 At any time you can exit from venv, just type `deactivate`.
