@@ -10,6 +10,7 @@
 ## 🛠️ Install
 Open the terminal or PowerShell (Windows) and execute the commands below **strictly** in their order
 - ```git clone https://github.com/Yakelmi/neoptex.git```
+- ```cd neoptex```
 - ```pip install -r requirements.txt```
 - ```Start by opening setup.bat, then start.bat```
 
