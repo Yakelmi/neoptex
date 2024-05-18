@@ -10,7 +10,9 @@
 ## 🛠️ Install
 Open the terminal or PowerShell (Windows) and execute the commands below **strictly** in their order
 - ```git clone https://github.com/Yakelmi/neoptex.git```
+- ```pip install -r requirements.txt```
 - ```cd neoptex```
+- ```Start by opening setup.bat, then start.bat```
 - python3  main.py
 
 At any time you can exit from venv, just type `deactivate`.
