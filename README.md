@@ -2,6 +2,14 @@
 
 <img src="https://cdn.discordapp.com/attachments/1240349660275671152/1241131746796376084/image.png?ex=66491583&is=6647c403&hm=15ec8f4346c2a1af5e80a968e310268450a0513334231db6a3e6c60d860d26f4&" width="70%">
 
+"""
+Программа Neoptex Cleaber
+Автор: oxsicloud
+Описание: Программа для очистки вредоносных файлов и удаления вредоносных программ.
+Версия: 1.0
+Дата создания: 17.05.2024
+"""
+
 ## 🔮 Time-machine
 - [🔮 You here!](https://github.com/Yakelmi/neoptex/edit/main/README.md)
 - [🛠️ Install](https://github.com/Yakelmi/neoptex/edit/main/README.md#%EF%B8%8F-install)
