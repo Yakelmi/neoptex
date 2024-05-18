@@ -22,7 +22,7 @@ At any time you can exit from venv, just type `deactivate`.
 - [x] Ensure cross-platform compatibility.
 - [ ] Add user-friendly error handling.
 - [ ] Write comprehensive documentation.
-- [ ] Test the program thoroughly.
+- [x] Test the program thoroughly.
 
 ## 📝 TODO RUSSIAN
 - [x] Реализовать функциональность очистки кэша.
@@ -31,5 +31,5 @@ At any time you can exit from venv, just type `deactivate`.
 - [x] Гарантировать совместимость с разными платформами.
 - [ ] Добавить удобную обработку ошибок.
 - [ ] Написать подробную документацию.
-- [ ] Только лишь тщательно протестировать программу.
+- [x] Только лишь тщательно протестировать программу.
 
