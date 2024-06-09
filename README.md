@@ -1,6 +1,6 @@
 ✨ **Neoptex Cleaner** - This project offers three options for system cleaning: cache cleaning, temporary file cleaning, and system cleaning.
 
-<img src="https://cdn.discordapp.com/attachments/1240349660275671152/1241131746796376084/image.png?ex=66491583&is=6647c403&hm=15ec8f4346c2a1af5e80a968e310268450a0513334231db6a3e6c60d860d26f4&" width="70%">
+<img src="https://discord.com/channels/@me/1247668639721586830/1249365025433325680" width="70%">
 
 ```
 Программа Neoptex Cleaner
